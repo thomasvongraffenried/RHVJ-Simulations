@@ -9,7 +9,7 @@ The two scripts differ only in the dispersal kernel used for the placement of th
 
   Simulates viral evolution with both short-range and rare long-distance transmission events. The simulation is repeated for 27 independent random seeds. 
 
-- NoLongDistanceDispersal_Simulation.R
+- nLDT_Seeds1to27.R
 
   Simulates viral evolution with only short-range transmission events. The simulation is repeated for 27 independent random seeds.
 
