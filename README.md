@@ -1,5 +1,5 @@
 # RHVJ Simulations
-This repository contains four custom R scripts used to simulate and post-process the spatial evolution of a non-recombining viral population in a continuous two-dimensional landscape. The simulations were developed to investigate whether occasional long-distance vector-mediated transmission events can generate phylogenetic patterns similar to those observed in empirical RHV-J data. 
+This repository contains four custom R scripts used to simulate and post-process the spatial evolution of a non-recombining viral population in a continuous two-dimensional landscape. The simulations were developed to investigate whether occasional long-distance vector-mediated transmission events can generate phylogenetic patterns similar to those observed in empirical RHVJ data. 
 
 The two scripts differ only in the dispersal kernel used for the placement of the offspring. 
 
